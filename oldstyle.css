@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    color: aqua;
+    text-decoration: wavy;
+
+}
+
+body {
+    background-image: url("image 1.jpg");
+    
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+}
